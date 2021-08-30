@@ -1,6 +1,6 @@
 # expR
 
-This is the first time I am experiencing R, and GitHub along.
+This is the first time I am experimenting R, and GitHub all along.
 
 So this repo is intended to gather various exercises/projects with RStudio, and 
 it is likely to be a lot of messy junk.
